@@ -32,5 +32,5 @@ def find_maximum_subarray(arr,low,high):
             return (cross_low,cross_high,cross_sum)
 
 
-arr = [13,-3,-25,20,-3,-16,-23,18,20,-7,12,-5,-22,15,-4,7]
-print(find_maximum_subarray(arr,0,15))
+# arr = [13,-3,-25,20,-3,-16,-23,18,20,-7,12,-5,-22,15,-4,7]
+# print(find_maximum_subarray(arr,0,15))
