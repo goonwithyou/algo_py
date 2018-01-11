@@ -21,3 +21,5 @@ def square_matrix_multiply(A,B):
 # A = matrix('1 2 3; 4 5 6; 7 8 9')
 # B = matrix('1 2 3; 4 5 6; 7 8 9')
 # print(square_matrix_multiply(A,B))
+a=[]
+a.append()
